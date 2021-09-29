@@ -1,0 +1,17 @@
+hr {
+    width: 33%;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    color: rgb(99, 98, 98);
+    font-family: 'Open Sans', sans-serif;
+}
+
+i {
+    color: orange;
+}

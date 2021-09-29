@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+hr {
+    width: 33%;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.font-color {
+    color: orange;
+}
+button {
+    color: grey;
+    border: 1px solid;
+    width: 100%;
+}
+
